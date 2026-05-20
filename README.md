@@ -1,2 +1,2 @@
 # launchbridge
-Business Managemet Consultant
+Business Management Consultant
